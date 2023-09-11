@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, Azure, mongo DB**
 
-- 📄 Know about my experiences [I'm biomedical engineer but without planning it, I had the opportunity to work in developing technology and I liked it, here I stayed and I want to give the best of my :)](I'm biomedical engineer but without planning it, I had the opportunity to work in developing technology and I liked it, here I stayed and I want to give the best of my :))
+- 📄 Know about my experiences: I'm biomedical engineer but without planning it, I had the opportunity to work in developing technology and I liked it, here I stayed and I want to give the best of my :)
 
 - ⚡ Fun fact **Honeybees can recognize human faces 🤭**
 
