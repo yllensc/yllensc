@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **C#, Azure, mongo DB**
 
-- 📄 Know about my experiences: I'm biomedical engineer but without planning it, I had the opportunity to work in developing technology and I liked it, here I stayed and I want to give the best of my :)
+- 📄 Know about my experiences [I'm biomedical engineer but without planning it, I had the opportunity to work in developing technology and I liked it, here I stayed and I want to give the best of my :)](I'm biomedical engineer but without planning it, I had the opportunity to work in developing technology and I liked it, here I stayed and I want to give the best of my :))
 
 - ⚡ Fun fact **Honeybees can recognize human faces 🤭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/yllen-kelaia-santamaría-chacón-0049a6205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yllen-kelaia-santamaría-chacón-0049a6205" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@yllensc18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yllensc18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/yllensc18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/yllensc18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yllensc&show_icons=true&locale=en&layout=compact" alt="yllensc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yllensc&show_icons=true&locale=en" alt="yllensc" /></p>
-
